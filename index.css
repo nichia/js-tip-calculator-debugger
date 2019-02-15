@@ -1,0 +1,18 @@
+
+.container1 {
+  width: 30%;
+  height: 400px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 130px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h4 {
+  text-align: center;
+}
+
+#total {
+  color: green;
+}
